@@ -985,7 +985,7 @@ a.Socialclick{
 }
 
 .containText{
-    width:80%;
+    width:90%;
     margin: 0 auto;
 }
 
@@ -1083,7 +1083,7 @@ a.Socialclick{
 #process1research_text, #process2wireframe_text, #process3prototype_text, #process4design_text{
     margin-top:1%;
     border: 1px solid #999999;
-    min-height:400px;
+    min-height:300px;
     height:auto;
 }
 
@@ -1091,7 +1091,7 @@ a.Socialclick{
     margin-top:1%;
     margin-right:1%;
     border: 1px solid #999999;
-    min-height:400px;
+    min-height:300px;
     height:auto;
 
 }
@@ -1100,23 +1100,23 @@ a.Socialclick{
     margin-top:1%;
     margin-left:1%;
     border: 1px solid #999999;
-    min-height:400px;
+    min-height:300px;
     height:auto;
 
 }
 
 #process1research_photo{
-    background-image: url('../images/commuteMeEmpathyMap.png');
+    background-image: url('../images/research_photo.png');
     background-size:contain;
     background-repeat:no-repeat;
-    text-align:center;
+    background-position:center;
 }
 
 #process2wireframe_photo{
     background-image: url('../images/commuteMeEmpathyMap.png');
     background-size:contain;
     background-repeat:no-repeat;
-    text-align:center;
+    background-position:center;
 
 }
 
@@ -1124,7 +1124,7 @@ a.Socialclick{
     background-image: url('../images/commuteMeEmpathyMap.png');
     background-size:contain;
     background-repeat:no-repeat;
-    text-align:center;
+    background-position:center;
 
 }
 
@@ -1132,7 +1132,7 @@ a.Socialclick{
     background-image: url('../images/commuteMeEmpathyMap.png');
     background-size:contain;
     background-repeat:no-repeat;
-    text-align:center;
+    background-position:center;
     margin-bottom:1%;
 
 }
