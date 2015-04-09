@@ -357,13 +357,12 @@ a {
 
 a:focus,a:hover {
     color: #23527c;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 a:focus {
-    outline: thin dotted;
+    outline: none;
     outline: 5px auto -webkit-focus-ring-color;
-    outline-offset: -2px;
 }
 
 figure {
@@ -1113,6 +1112,34 @@ a.Socialclick{
     text-align:center;
 }
 
+#process2wireframe_photo{
+    background-image: url('../images/commuteMeEmpathyMap.png');
+    background-size:contain;
+    background-repeat:no-repeat;
+    text-align:center;
+
+}
+
+#process3prototype_photo{
+    background-image: url('../images/commuteMeEmpathyMap.png');
+    background-size:contain;
+    background-repeat:no-repeat;
+    text-align:center;
+
+}
+
+#process4design_photo{
+    background-image: url('../images/commuteMeEmpathyMap.png');
+    background-size:contain;
+    background-repeat:no-repeat;
+    text-align:center;
+    margin-bottom:1%;
+
+}
+
+#process4design_text{
+    margin-bottom:1%;
+}
 /*_______________________________End Process Page Styling________________________________________*/
 
 /*_________________________________Bootstrap Column Widths_______________________________________*/
